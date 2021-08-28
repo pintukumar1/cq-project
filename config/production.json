@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://pintu-user_123:up60x5724@cluster0.btsfj.mongodb.net/user-manager-db?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
